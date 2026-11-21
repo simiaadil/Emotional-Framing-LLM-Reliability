@@ -1,0 +1,10 @@
+.env
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.parquet
+claude_responses/
+gemini_responses/
+analysis_results/
+readable_exports/
+paper_outputs/
