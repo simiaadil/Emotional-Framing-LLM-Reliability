@@ -1,0 +1,12 @@
+anthropic
+google-genai
+python-dotenv
+pandas
+pyarrow
+numpy
+scikit-learn
+scipy
+matplotlib
+sentence-transformers
+transformers
+torch
